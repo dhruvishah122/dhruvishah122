@@ -1,8 +1,5 @@
+![Image Description](https://drive.google.com/uc?export=view&id=1cbEPAG3ERDVY_oqtELcQKFQFrWRYphg2)
 
-![Header](https://drive.google.com/)
-
-
-![Image Description]((https://drive.google.com/file/d/1cbEPAG3ERDVY_oqtELcQKFQFrWRYphg2/view?usp=drivesdk)
 
 <h1 align="center">Hi 👋, I'm Dhruvi shah</h1>
 <h3 align="center">A passionate Software developer from India</h3>
