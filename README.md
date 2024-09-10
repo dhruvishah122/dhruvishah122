@@ -9,7 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvishah122" alt="dhruvishah122" /></a> </p>
 
 - 🌱 I’m currently learning *MERN, Adv Java, AWS tools*
-
+- 📫 I’m Upcoming SWE Intern @Google for 2025
 - 📫 I’m Former Amazon Support Engineer Intern *Worked on Java ,AWS tools in Amazon Pricing team*
 
 - 🔭 I’m currently working on [SIH Project](https://github.com/dhruvishah122/SIH-2024)
