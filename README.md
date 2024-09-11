@@ -1,5 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-<iframe src="https://drive.google.com/file/d/1dSRJN01U-e9MHa-KXIj-xtZrSKCahzH_/preview" width="640" height="480" allow="autoplay"></iframe>  
+<img src="https://drive.google.com/file/d/1dSRJN01U-e9MHa-KXIj-xtZrSKCahzH_/preview" width="640" height="480" allow="autoplay"></img>  
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvishah122&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvishah122" /> </p>
