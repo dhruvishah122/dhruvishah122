@@ -1,10 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <img src="https://drive.google.com/uc?id=1dSRJN01U-e9MHa-KXIj-xtZrSKCahzH_" width="320" height="240" alt="Description of the image">
-    <div style="margin-left: 10px;">
-        <h3>Image Description</h3>
-        <p>This is a detailed description of the image displayed on the left. It provides context and information relevant to the visual content.</p>
-    </div>
-</div>
+![My Image](https://drive.google.com/uc?export=view&id=1dSRJN01U-e9MHa-KXIj-xtZrSKCahzH_)
 
 
 
