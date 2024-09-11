@@ -37,10 +37,10 @@
 <table width="100%" align="center">
 <tr>
 <td>
-  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=jency1&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
+  <img width="430em" src="https://github-readme-stats.vercel.app/api?username=dhruvishah122&show_icons=true&locale=en&theme=radical" alt="GitHub Stats"/>
 </td>
 <td>
-  <img width="430em" src="https://github-readme-streak-stats.herokuapp.com/?user=jency1&theme=radical" alt="Streak Stats"/>
+  <img width="430em" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvishah122&theme=radical" alt="Streak Stats"/>
 </td>
 </tr>
 </table>
@@ -54,10 +54,10 @@
 <table width="100%" align="center">
 <tr>
  <td>
-  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=jency1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Readme Stat"/>
+  <img width="350em" src="http://github-readme-stats.vercel.app/api/top-langs?username=dhruvishah122&show_icons=true&locale=en&layout=compact&theme=radical" alt="Readme Stat"/>
 </td>
 <td>
-  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jency1&theme=radical" alt="Profile Summary">
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhruvishah122&theme=radical" alt="Profile Summary">
 </td>
 </tr>
 </table>
