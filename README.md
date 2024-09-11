@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <img align="right" alt="Coding" width="250" height="200" src="https://www.webcapz.com.ng/wp-content/uploads/2023/11/Tech-Coding-Class-For-Kids-710x520.png">
     <img src="https://drive.google.com/uc?export=view&id=1cbEPAG3ERDVY_oqtELcQKFQFrWRYphg2" alt="Image Description" width="700" height="150" style="right:5px;">
+      <img align="right" alt="Coding" width="250" height="200" src="https://www.webcapz.com.ng/wp-content/uploads/2023/11/Tech-Coding-Class-For-Kids-710x520.png">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvishah122&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvishah122" /> </p>
