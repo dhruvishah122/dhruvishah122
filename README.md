@@ -1,10 +1,7 @@
-![Image Description](https://drive.google.com/uc?export=view&id=1cbEPAG3ERDVY_oqtELcQKFQFrWRYphg2)
 
 <img align="right" alt="Coding" width="300" height="200" src="https://www.webcapz.com.ng/wp-content/uploads/2023/11/Tech-Coding-Class-For-Kids-710x520.png">
 
-
-<h1 align="center">Hi 👋, I'm Dhruvi shah</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+![Image Description](https://drive.google.com/uc?export=view&id=1cbEPAG3ERDVY_oqtELcQKFQFrWRYphg2)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvishah122&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvishah122" /> </p>
 
