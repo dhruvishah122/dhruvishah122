@@ -30,6 +30,7 @@
   <a href="https://dhruvishah122.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
+    - Email: [dhruvishah116122@gmail.com](mailto:dhruvishah116122@gmail.com)
 </div>
 
  <hr/>
